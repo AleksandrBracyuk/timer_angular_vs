@@ -15,7 +15,7 @@
 1. в командной строке (-любой) переходим в папку ClienApp нашего проектаи и выполняем: npm start
 2. в окне выбора проекта запуска (- вверху, выпадашка) вместо "IIS Express" выбрать имя проекта и запустить
 
-Данный способ рекомендован в https://docs.microsoft.com/en-us/aspnet/core/client-side/spa/angular?view=aspnetcore-3.1&tabs=netcore-cli
+Данный способ рекомендован в https://docs.microsoft.com/en-us/aspnet/core/client-side/spa/angular?view=aspnetcore-3.1&tabs=netcore-cli в подразделе: 
 "Run "ng serve" independently".
 
 =================
